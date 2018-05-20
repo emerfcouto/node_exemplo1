@@ -12,7 +12,7 @@ var knex = require('knex')({
     connection: {
       host : '127.0.0.1',
       user : 'root',
-      password : 'cre@T1v1t1',
+      password : '',
       database : 'nodejs'
     }
   });
